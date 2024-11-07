@@ -1,8 +1,5 @@
-# React + Vite
+# 감정일기장
+## 나의 첫 프론트 프로젝트
+## 이정한강사님의 떠먹는 리액트 강의를 보고 만듬
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+자바스크립트가 아직 어렵네요 ㅠㅠ.., 많은 학습이 필요하듯!
